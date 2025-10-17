@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+python-binance
+statsmodels
+requests
+python-dotenv
+binance
